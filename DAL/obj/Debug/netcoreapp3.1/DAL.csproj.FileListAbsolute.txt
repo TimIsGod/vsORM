@@ -1,0 +1,16 @@
+D:\projects\Microsoft\vs 2019\手写ROM\DAL\bin\Debug\netcoreapp3.1\手写ORM.ORMFramework.dll
+D:\projects\Microsoft\vs 2019\手写ROM\DAL\bin\Debug\netcoreapp3.1\手写ROM.Model.dll
+D:\projects\Microsoft\vs 2019\手写ROM\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+D:\projects\Microsoft\vs 2019\手写ROM\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+D:\projects\Microsoft\vs 2019\手写ROM\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+D:\projects\Microsoft\vs 2019\手写ROM\DAL\bin\Debug\netcoreapp3.1\手写ORM.DAL.deps.json
+D:\projects\Microsoft\vs 2019\手写ROM\DAL\bin\Debug\netcoreapp3.1\手写ORM.DAL.dll
+D:\projects\Microsoft\vs 2019\手写ROM\DAL\bin\Debug\netcoreapp3.1\手写ORM.DAL.pdb
+D:\projects\Microsoft\vs 2019\手写ROM\DAL\bin\Debug\netcoreapp3.1\手写ROM.Model.pdb
+D:\projects\Microsoft\vs 2019\手写ROM\DAL\bin\Debug\netcoreapp3.1\手写ORM.ORMFramework.pdb
+D:\projects\Microsoft\vs 2019\手写ROM\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+D:\projects\Microsoft\vs 2019\手写ROM\DAL\obj\Debug\netcoreapp3.1\手写ORM.DAL.dll
+D:\projects\Microsoft\vs 2019\手写ROM\DAL\obj\Debug\netcoreapp3.1\手写ORM.DAL.pdb
+D:\projects\Microsoft\vs 2019\手写ROM\DAL\bin\Debug\netcoreapp3.1\ExpressionSql.dll
+D:\projects\Microsoft\vs 2019\手写ROM\DAL\bin\Debug\netcoreapp3.1\ExpressionSql.pdb
+D:\projects\Microsoft\vs 2019\手写ROM\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache

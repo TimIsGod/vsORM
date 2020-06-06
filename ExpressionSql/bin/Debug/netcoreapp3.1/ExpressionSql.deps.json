@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ExpressionSql/1.0.0": {
+        "runtime": {
+          "ExpressionSql.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExpressionSql/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

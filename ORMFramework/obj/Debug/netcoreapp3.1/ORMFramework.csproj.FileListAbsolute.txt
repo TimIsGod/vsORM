@@ -1,0 +1,8 @@
+D:\projects\Microsoft\vs 2019\手写ROM\ORMFramework\bin\Debug\netcoreapp3.1\手写ORM.ORMFramework.deps.json
+D:\projects\Microsoft\vs 2019\手写ROM\ORMFramework\bin\Debug\netcoreapp3.1\手写ORM.ORMFramework.dll
+D:\projects\Microsoft\vs 2019\手写ROM\ORMFramework\obj\Debug\netcoreapp3.1\ORMFramework.AssemblyInfoInputs.cache
+D:\projects\Microsoft\vs 2019\手写ROM\ORMFramework\obj\Debug\netcoreapp3.1\ORMFramework.AssemblyInfo.cs
+D:\projects\Microsoft\vs 2019\手写ROM\ORMFramework\bin\Debug\netcoreapp3.1\手写ORM.ORMFramework.pdb
+D:\projects\Microsoft\vs 2019\手写ROM\ORMFramework\obj\Debug\netcoreapp3.1\ORMFramework.csproj.CoreCompileInputs.cache
+D:\projects\Microsoft\vs 2019\手写ROM\ORMFramework\obj\Debug\netcoreapp3.1\手写ORM.ORMFramework.dll
+D:\projects\Microsoft\vs 2019\手写ROM\ORMFramework\obj\Debug\netcoreapp3.1\手写ORM.ORMFramework.pdb

@@ -1,0 +1,9 @@
+D:\projects\Microsoft\vs 2019\手写ROM\ExpressionSql\bin\Debug\netcoreapp3.1\ExpressionSql.deps.json
+D:\projects\Microsoft\vs 2019\手写ROM\ExpressionSql\bin\Debug\netcoreapp3.1\ExpressionSql.dll
+D:\projects\Microsoft\vs 2019\手写ROM\ExpressionSql\bin\Debug\netcoreapp3.1\ExpressionSql.pdb
+D:\projects\Microsoft\vs 2019\手写ROM\ExpressionSql\obj\Debug\netcoreapp3.1\ExpressionSql.csproj.CoreCompileInputs.cache
+D:\projects\Microsoft\vs 2019\手写ROM\ExpressionSql\obj\Debug\netcoreapp3.1\ExpressionSql.AssemblyInfoInputs.cache
+D:\projects\Microsoft\vs 2019\手写ROM\ExpressionSql\obj\Debug\netcoreapp3.1\ExpressionSql.AssemblyInfo.cs
+D:\projects\Microsoft\vs 2019\手写ROM\ExpressionSql\obj\Debug\netcoreapp3.1\ExpressionSql.dll
+D:\projects\Microsoft\vs 2019\手写ROM\ExpressionSql\obj\Debug\netcoreapp3.1\ExpressionSql.pdb
+D:\projects\Microsoft\vs 2019\手写ROM\ExpressionSql\obj\Debug\netcoreapp3.1\ExpressionSql.csprojAssemblyReference.cache

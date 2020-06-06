@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>手写ROM.Model</AssemblyName>
+    <RootNamespace>手写ROM.Model</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ORMFramework\ORMFramework.csproj" />
+  </ItemGroup>
+
+</Project>

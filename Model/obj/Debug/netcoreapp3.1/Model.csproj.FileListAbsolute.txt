@@ -1,0 +1,12 @@
+D:\projects\Microsoft\vs 2019\手写ROM\Model\bin\Debug\netcoreapp3.1\手写ROM.Model.deps.json
+D:\projects\Microsoft\vs 2019\手写ROM\Model\bin\Debug\netcoreapp3.1\手写ROM.Model.dll
+D:\projects\Microsoft\vs 2019\手写ROM\Model\bin\Debug\netcoreapp3.1\手写ROM.Model.pdb
+D:\projects\Microsoft\vs 2019\手写ROM\Model\bin\Debug\netcoreapp3.1\手写ORM.ORMFramework.dll
+D:\projects\Microsoft\vs 2019\手写ROM\Model\bin\Debug\netcoreapp3.1\手写ORM.ORMFramework.pdb
+D:\projects\Microsoft\vs 2019\手写ROM\Model\obj\Debug\netcoreapp3.1\Model.csprojAssemblyReference.cache
+D:\projects\Microsoft\vs 2019\手写ROM\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
+D:\projects\Microsoft\vs 2019\手写ROM\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+D:\projects\Microsoft\vs 2019\手写ROM\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+D:\projects\Microsoft\vs 2019\手写ROM\Model\obj\Debug\netcoreapp3.1\Model.csproj.CopyComplete
+D:\projects\Microsoft\vs 2019\手写ROM\Model\obj\Debug\netcoreapp3.1\手写ROM.Model.dll
+D:\projects\Microsoft\vs 2019\手写ROM\Model\obj\Debug\netcoreapp3.1\手写ROM.Model.pdb
